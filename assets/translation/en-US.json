@@ -1,0 +1,13 @@
+{
+    "connection_is_afk":"Connection is AFK",
+    "no_connection_body": "No internet connection check your internet connection and try again.",
+    "retry":"Retry",
+    "cancel":"Cancel",
+    "submit":"Submit",
+    "network_error":"No Internet",
+    "unknown_error":"Something went wrong",
+    "add":"Add",
+    "another_fact": "Another fact!",
+    "fact_history": "Fact history",
+    "no_data": "No data"
+}
